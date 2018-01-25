@@ -1,5 +1,4 @@
 Pokemon Squash Tracker
 ===================================
 
-This app is a point tracker app, prepared especially for squash with a Pokemon theme. 
-Pokemon are fighting with each other based on the game stage, losing Heal Points.
+A squash point Counter app - with the pokemon theme. Points are added with button clicks . Won games are counted, untill one of the player wins 3 games, then the game and score resets a message of who won is displayed. The pokemon are animated, they are fighting and commencing attacks - water and fire on each other. Also with every game their Heal points are dropping. Design of the application is based on the old Game boy pokemon games.
