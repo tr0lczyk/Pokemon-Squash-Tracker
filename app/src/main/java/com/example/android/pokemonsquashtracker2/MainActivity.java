@@ -1,29 +1,17 @@
 package com.example.android.pokemonsquashtracker2;
 
-import android.animation.AnimatorSet;
-import android.animation.ObjectAnimator;
-import android.content.res.AssetManager;
-import android.media.Image;
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.content.Context;
-import android.graphics.Typeface;
-import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.android.pokemonsquashtracker2.R;
-
-import org.w3c.dom.Text;
-
-import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
