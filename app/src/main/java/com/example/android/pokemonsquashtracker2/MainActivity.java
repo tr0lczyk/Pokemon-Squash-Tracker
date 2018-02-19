@@ -20,18 +20,18 @@ public class MainActivity extends AppCompatActivity {
     *
     * */
 
-    ProgressBar prgR;
-    ProgressBar prgB;
+    private ProgressBar prgR;
+    private ProgressBar prgB;
 
-    int redScore = 0;
-    int blueScore = 0;
-    int redMatchScore = 0;
-    int blueMatchScore = 0;
+    private int redScore = 0;
+    private int blueScore = 0;
+    private int redMatchScore = 0;
+    private int blueMatchScore = 0;
 
     ImageView charizard;
     ImageView blastoise;
-    ImageView blastoiseAttack;
-    ImageView charizardAttack;
+    private ImageView blastoiseAttack;
+    private ImageView charizardAttack;
 
     Animation blastoiseFloat;
     Animation charizardFloat;
